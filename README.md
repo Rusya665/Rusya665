@@ -1,4 +1,4 @@
-[![MasterHead](https://www.nasa.gov/sites/default/files/thumbnails/image/bh_banner_gif.2022-03-29_08_03_43_0.gif)](https://github.com/Rusya665)
+[![MasterHead](banner.gif)](https://github.com/Rusya665)
 
 <h1 align="center">Hi 👋, I'm Rustem Nizamov</h1>
 <h3 align="center">A dedicated Doctoral Researcher excelling in materials engineering, improving photovoltaic stability, and applying Python automation.</h3>
