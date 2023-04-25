@@ -1,8 +1,11 @@
-[![MasterHead](https://www.nasa.gov/sites/default/files/thumbnails/image/bh_banner_gif.2022-03-29_08_03_43_0.gif)](https://github.com/Rusya665/)
+[![MasterHead](https://www.nasa.gov/sites/default/files/thumbnails/image/bh_banner_gif.2022-03-29_08_03_43_0.gif)](https://github.com/Rusya665)
+
 <h1 align="center">Hi 👋, I'm Rustem Nizamov</h1>
 <h3 align="center">A dedicated Doctoral Researcher excelling in materials engineering, improving photovoltaic stability, and applying Python automation.</h3>
-<img align="right" alt="Research" width="600" src="https://cdn.dribbble.com/users/806947/screenshots/9680900/media/3119aee698cbf29b6f70e921638a3722.gif">
-- 🔭 I’m currently working in [Solar Energy Materials and Systems group](https://www.utu.fi/en/university/faculty-of-technology/mechanical-and-materials-engineering/research/solar-energy-materials)
+<img align="right" alt="Research" width="400" src="https://cdn.dribbble.com/users/806947/screenshots/9680900/media/3119aee698cbf29b6f70e921638a3722.gif">
+- 🔭 I’m currently working in the 
+
+[Solar Energy Materials and Systems group](https://www.utu.fi/en/university/faculty-of-technology/mechanical-and-materials-engineering/research/solar-energy-materials)
 
 - 🌱 I’m currently learning **R, MATLAB, C++**
 
