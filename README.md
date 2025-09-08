@@ -26,6 +26,7 @@ I'm currently a Doctoral Researcher at the **[University of Turku](https://www.u
 * **Python Data Analysis Suite:** Developed a [suite of Python scripts](https://github.com/Rusya665/Solar_cells_measurements_plotting) that automates complex data processing for our 10+ person research team. This tool reduced our analysis time from days to seconds, saving an estimated **500+ team hours annually**.
 * **3D-Printed Probing Holder:** Invented a novel [3D-printed device](https://doi.org/10.1098/rsos.241012) to streamline material testing. It is now standard practice in two university labs, saving over **400+ hours of manual work per year** and significantly improving measurement reliability.
 * **Automated Measurement Systems:** Engineered automated lab systems for unattended, multi-hour CV/EIS scans, eliminating manual errors and freeing up dozens of valuable researcher hours every month.
+* **GitLab:** Check out my [GitLab](https://gitlab.com/Rusya665) repository for more details (used in publications mainly).
 
 ### 🛠️ My Tech Stack
 
